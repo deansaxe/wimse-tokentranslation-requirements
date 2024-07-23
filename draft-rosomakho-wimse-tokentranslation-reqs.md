@@ -25,10 +25,10 @@ author:
     fullname: Yaroslav Rosomakho
     organization: Zscaler
     email: yrosomakho@zscaler.com
- -  ins: "D. Saxe"
+ -  ins: "D. H. Saxe"
     fullname: Dean H. Saxe
-    organization: Amazon Web Services
-    email: deansaxe@amazon.com
+    organization: Beyond Identity
+    email: dean.saxe@beyondidentity.com
  -  ins: "D. Izumskiy"
     fullname: Dmitry Izumskiy
     organization: Intuit
